@@ -1,7 +1,16 @@
-This experimental project file, app, system or software is for include all the knowledge I know.
+This is an E-commerce platform that reaches people in a local neighborhood.
 
-It could not include frameworks because the purpose of this experimental project is to implement
-technics like designs patterns as well as architectural design.
+It start as MVP in order to proof if it'll be a online business so, I can earn
+enough money to be sustainable.
 
-Mainly this will be web app.
+It doesn't use any framework like React or Ruby on Rails in order to sharpe my
+skills on JavaScript and Ruby.
+
+It'll have the next features:
+    - Payment Integration
+    - Sing In and Sing Up
+    - Search Bar
+    - Section to show items
+    - Classification by product
+    - Checkout page
 
