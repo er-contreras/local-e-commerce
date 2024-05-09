@@ -1,0 +1,14 @@
+{
+  "items": {
+    {
+      "name": "Lentes",
+      "price": "$2,500",
+      "description": "Lentes seminuevos"
+    },
+    {
+      "name": "Macbook Pro M1 chip pro",
+      "price": 36000,
+      "description": "Laptop seminueva"
+    }
+  }
+}
