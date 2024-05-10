@@ -14,3 +14,8 @@ It'll have the next features:
     - Classification by product
     - Checkout page
 
+## Get started
+
+- Open project on your browser, example: file:///Users/username/path/local-e-commerce/dist/index.html
+- Run npm install
+- Run npm run webpack
