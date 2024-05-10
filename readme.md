@@ -18,4 +18,4 @@ It'll have the next features:
 
 - Open project on your browser, example: file:///Users/username/path/local-e-commerce/dist/index.html
 - Run npm install
-- Run npm run webpack
+- Run npm run build
