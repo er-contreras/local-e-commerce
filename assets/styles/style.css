@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: 1px dotted red;
 }
 
 html {
@@ -20,14 +19,51 @@ header {
 }
 
 header h1 {
-  font-size: 5rem;
+  font-size: 10rem;
+}
+
+header li {
+  list-style: none;
+  font-size: 2rem;
+}
+
+nav {
+  margin: 11rem;
 }
 
 .content {
   border: 1px solid black;  
 }
 
+.content h2 {
+  font-size: 6rem;
+  margin-top: 2rem;
+}
+
 .char:hover {
   color: red;
   cursor: pointer;
+}
+
+#items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7rem 0;
+}
+
+.item {
+  border: 1px solid black;
+  width: 90%;
+  margin-top: 2rem;
+}
+
+.item h3 {
+  padding: 2rem 1rem;
+  font-size: 6rem;
+}
+
+.item li {
+  font-size: 4.7rem;
+  margin: 0 0 2rem 5rem;
 }
